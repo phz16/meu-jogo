@@ -1,6 +1,7 @@
 {
   "name": "tigrinho",
   "version": "1.0.0",
+  "homepage": "https://phz16.github.io/meu-jogo",
   "main": "index.ts",
   "scripts": {
     "start": "expo start",
