@@ -1,7 +1,6 @@
 {
   "name": "tigrinho",
   "version": "1.0.0",
-  "homepage": "https://phz16.github.io/meu-jogo",
   "main": "index.ts",
   "scripts": {
     "start": "expo start",
@@ -9,6 +8,13 @@
     "ios": "expo start --ios",
     "web": "expo start --web"
   },
+  "expo": {
+  "name": "tigrinho",
+  "slug": "tigrinho",
+  "web": {
+    "publicPath": "./"
+  }
+},
   "dependencies": {
     "expo": "~53.0.20",
     "expo-status-bar": "~2.2.3",
