@@ -10,10 +10,7 @@
   },
   "expo": {
   "name": "tigrinho",
-  "slug": "tigrinho",
-  "web": {
-    "publicPath": "./"
-  }
+  "slug": "tigrinho"
 },
   "dependencies": {
     "expo": "~53.0.20",
